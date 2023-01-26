@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+form {
+  width: 50%;
+  margin: 0 auto;
+}
+
+#output {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+  padding: 20px;
+  border: 1px solid gray;
+  margin-top: 20px;
+}
